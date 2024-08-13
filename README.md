@@ -1,7 +1,3 @@
-Here's an example of a README.md file for your Tampermonkey script that automates Facebook invitations. This README explains how to install and use the script, as well as its main functionality.
-
----
-
 # Facebook Auto Inviter by Jam
 
 This Tampermonkey script automatically invites people who have reacted to your Facebook posts to like your page. It operates without requiring manual scrolling and checks for new invite buttons every second.
