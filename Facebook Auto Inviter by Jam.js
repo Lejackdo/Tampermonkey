@@ -3,6 +3,8 @@
 // @namespace    https://www.linkedin.com/in/jacquesantoinemarteau/
 // @version      1.5
 // @description  Automatically invite people who reacted to your Facebook posts to like your page without scrolling and delay, and check for new buttons every second with a total counter since script start at the bottom of the screen.
+// @match        *://business.facebook.com/*
+// @grant        none
 // ==/UserScript==
 
 (function() {
