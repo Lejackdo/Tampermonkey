@@ -34,7 +34,3 @@ Once installed, the script will automatically function every time you visit Face
 ## Disclaimer
 
 The use of automated scripts like this may be against Facebook's Terms of Service. Use this script at your own risk. I am not responsible for any actions that Facebook may take in response to the use of this script.
-
----
-
-This README provides all necessary information for someone to begin using the script effectively, while understanding the potential risks associated with it.
